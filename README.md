@@ -5,6 +5,8 @@ O projeto também contêm banners que vão mudando conforme o tempo passa. Você
 
 A página é 100% responsiva, feita para celulares, tablets e desktop. Ela se adequa dependendo da tecnologia que você utiliza.
 
+Site da página: https://phsoaresb.github.io/Projeto-Meteora/
+
 ![image](https://github.com/phsoaresb/Projeto-Meteora/assets/134897384/99f55fa2-f5db-4572-9ebf-b50cb483e084)
 ![image](https://github.com/phsoaresb/Projeto-Meteora/assets/134897384/85c7e983-410c-4781-ae3b-3ec644394d97)
 ![image](https://github.com/phsoaresb/Projeto-Meteora/assets/134897384/b25dee4b-b232-4cd1-8731-b159146d0455)
